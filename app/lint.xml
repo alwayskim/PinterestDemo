@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/wyz/whaley/pinterest/http/ImageLoader.java" />
+        <ignore path="src/wyz/whaley/pinterest/widget/CustomPinterest.java" />
+        <ignore path="src/wyz/whaley/pinterest/widget/CustomPinterestNew.java" />
+        <ignore path="src/wyz/whaley/pinterest/widget/CustomPinterestTV.java" />
+    </issue>
+</lint>

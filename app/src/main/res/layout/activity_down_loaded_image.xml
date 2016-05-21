@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="wyz.whaley.pinterest.ui.DownLoadedImageActivity">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <include
+            android:id="@+id/tool_bar"
+            layout="@layout/tool_bar"></include>
+
+        <RelativeLayout
+            android:id="@+id/download_select_bar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:focusable="true"
+            android:clickable="true"
+            android:padding="6dp"
+            android:background="@color/ColorPrimary"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/download_all_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center_vertical"
+                android:layout_alignParentLeft="true"
+                android:text="All"
+                android:textColor="@color/white"
+                android:textSize="16dp" />
+
+            <TextView
+                android:id="@+id/download_select_count_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingLeft="4dp"
+                android:textStyle="bold"
+                android:gravity="center_vertical"
+                android:layout_toRightOf="@id/download_all_tv"
+                android:textColor="@color/shot_item_title_color"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/download_delete_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:textStyle="bold"
+                android:gravity="center_vertical"
+                android:layout_alignParentRight="true"
+                android:text="delete"
+                android:textColor="@color/white"
+                android:textSize="16dp" />
+        </RelativeLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <GridView
+            android:id="@+id/download_gv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="4dp"
+            android:horizontalSpacing="4dp"
+            android:numColumns="3"
+            android:verticalSpacing="4dp"></GridView>
+
+        <TextView
+            android:id="@+id/empty_tv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="Empty"
+            android:textColor="@color/lightgray"
+            android:textSize="30sp"
+            android:textStyle="bold" />
+    </FrameLayout>
+</LinearLayout>

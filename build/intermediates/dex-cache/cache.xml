@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alwayking/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0-alpha1_f361eabc8adb74a2ae037b28771580cb62fb7efd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.2.1_41b69e62f938e5c882cf4d481ae33b71076a1a2c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.0.0-alpha1_786f76a7e297a1262728b01c18a295eba117b302/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.2.1_da8dd85ac8efee2e66f4bfe1facd74c05283d091/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1f1c7067e22acf05bddbca9f94422050cd848a86">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.0.0-alpha1_fd88974132f5c258b40d9e8e864cf987ef6d0c07/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.0.0-alpha1_c766133259392479f804d890cb2b7e2f6944f42f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4b868b833b0887aa48c4e581558eef4f1196f6a2">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/de.hdodenhof-circleimageview-1.2.1_455572b0ca46dd9e37c7930d9e1483be8a714518/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.2.1_eaeab5175e119357f0d23e8a50e3511a26b85f80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_2e8446d04fb9626d6cd6faabc3133388d10a49d2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="56ebc66f2dc2908161806454d16234253c07b1d3">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_63465c27d014ac660c7f90694d6e7c00131e02c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.2.1_682127a293850ab33087dda6d06d34bedf7d06c2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Downloads/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_f15fb68b72f623edffbcf7e2a92192e468d746e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="96361b176c540b2fce0ede296935bb63086aaaf7">
+        <dex dex="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_467279c001edcaa5cf8f0534a5948c39540f9f10/classes.dex" />
+    </item>
+
+</items>

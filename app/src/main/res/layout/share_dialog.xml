@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/share_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/ColorPrimary"
+        android:gravity="left|center_vertical"
+        android:drawableLeft="@drawable/ic_action_share"
+        android:layout_alignParentTop="true"
+        android:padding="8dp"
+        android:text=" Choose"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+    <Button
+        android:id="@+id/share_cancel_btn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:textSize="16sp"
+        android:text="Cancel"/>
+    <GridView
+        android:id="@+id/share_gv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/share_title"
+        android:layout_above="@id/share_cancel_btn"
+        android:layout_marginTop="5dp"
+        android:layout_marginBottom="5dp"
+        android:numColumns="2"></GridView>
+
+
+
+</RelativeLayout>

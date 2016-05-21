@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/lightgray"
+    android:paddingBottom="10dp"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:paddingTop="42dp"
+    tools:context="wyz.whaley.pinterest.ui.MainActivity" >
+
+    <wyz.whaley.pinterest.widget.CustomPinterest
+        android:id="@+id/pinterest"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lightgray"
+        android:focusable="true" >
+    </wyz.whaley.pinterest.widget.CustomPinterest>
+
+    <wyz.whaley.pinterest.widget.CustomPinterestTV
+        android:id="@+id/pinterestTV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/lightgray"
+        android:focusable="true" >
+    </wyz.whaley.pinterest.widget.CustomPinterestTV>
+
+</RelativeLayout>

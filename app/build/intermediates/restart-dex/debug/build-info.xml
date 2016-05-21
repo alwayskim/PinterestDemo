@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxxhdpi"
+    format="7"
+    timestamp="1463762309458422000"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="217" />
+    <task
+        name="instant-run-dex"
+        duration="573" />
+    <task
+        name="instant-run-transform"
+        duration="49" />
+    <task
+        name="verifier"
+        duration="6" />
+
+    <artifact
+        location="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/reload-dex/debug/classes.dex"
+        type="RELOAD_DEX" />
+
+    <build timestamp="1463762236086610000" >
+        <artifact
+            location="/Users/alwayking/Desktop/PinterestDemo/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="1463762309458422000"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/reload-dex/debug/classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

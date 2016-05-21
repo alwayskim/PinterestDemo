@@ -1,0 +1,10 @@
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$5.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$DownLoadAdapter$1.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$DownLoadAdapter$1$1.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$DownLoadAdapter$ViewHolder.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$6.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$6$1.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$DownLoadAdapter.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity$6$2.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/ui/DownLoadedImageActivity.class
+CHANGED,/Users/alwayking/Desktop/PinterestDemo/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/wyz/whaley/pinterest/fragment/DisplayFragment$ShotsAdapter.class

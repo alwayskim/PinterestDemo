@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wyz.whaley.pinterest.widget.ItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/item_bg"
+    android:focusable="true"
+    android:padding="3dp" >
+
+    <ImageView
+        android:id="@+id/item_giv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" />
+
+    <TextView
+        android:id="@+id/item_tv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:background="#70000000"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+
+</wyz.whaley.pinterest.widget.ItemView>
