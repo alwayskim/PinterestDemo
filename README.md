@@ -1,5 +1,5 @@
 # PinterestDemo
-A simple dribbble client, still in developing
+A simple dribbble android client, still in developing
 
 
  ![alt text](https://raw.githubusercontent.com/alwayskim/PinterestDemo/master/Screenshot_20160408-153206.png)
